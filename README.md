@@ -4,13 +4,14 @@
 📍 Florida Oeste, Buenos Aires, Argentina | 🌍 EU Work Eligible (Argentine & Italian Citizenship)
 ✉️ marrassinimatias@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/matias-marra)
 
-Backend/full-stack developer con foco en sistemas core bancarios, actualmente cursando la Ingeniería en Informatica en UADE.
+Backend/full-stack developer con foco en sistemas core bancarios, actualmente cursando la Ingeniería en Informática en UADE.
 
 ## Resume / CV
 * [Download English CV](./CV_Matias_Marrassini_EN.pdf) 🇬🇧
 * [Descargar CV en Español](./CV_Matias_Marrassini_ES.pdf) 🇪🇸
 
 ## Featured Projects
+* **[desk-control](https://github.com/MatiasMarrassini/desk-control)** — Widget de escritorio para Windows (Python) que controla un sable de luz Xeno3 por Bluetooth LE, con el protocolo obtenido por ingeniería inversa, y focos inteligentes WiZ por wifi.
 * **[wordle-python](https://github.com/MatiasMarrassini/wordle-python)** — Wordle en consola con sistema de usuarios, ranking y estadísticas persistentes.
 * **[submarine-attack-java](https://github.com/MatiasMarrassini/submarine-attack-java)** — Batalla naval con interfaz gráfica (Swing), proyecto de POO.
 

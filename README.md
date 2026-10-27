@@ -11,6 +11,7 @@ Backend/full-stack developer con foco en sistemas core bancarios, actualmente cu
 * [Descargar CV en Español](./CV_Matias_Marrassini_ES.pdf) 🇪🇸
 
 ## Featured Projects
+* **[Mapa-Correlativas](https://github.com/MatiasMarrassini/Mapa-Correlativas)** ([demo online](https://matiasmarrassini.github.io/Mapa-Correlativas/)) — Mapa interactivo de materias y correlativas para varias facultades (FIUBA y UADE), en TypeScript y React. Selector de facultad, optativas con sus correlativas, guardado automático en el navegador y exportar/importar. Fork de FIUBA-Map, extendido y con tests (Jest).
 * **[desk-control](https://github.com/MatiasMarrassini/desk-control)** — Widget de escritorio para Windows (Python) que controla un sable de luz Xeno3 por Bluetooth LE, con el protocolo obtenido por ingeniería inversa, y focos inteligentes WiZ por wifi.
 * **[wordle-python](https://github.com/MatiasMarrassini/wordle-python)** — Wordle en consola con sistema de usuarios, ranking y estadísticas persistentes.
 * **[submarine-attack-java](https://github.com/MatiasMarrassini/submarine-attack-java)** — Batalla naval con interfaz gráfica (Swing), proyecto de POO.
